@@ -1,0 +1,4 @@
+/data/adspend.csv filter=lfs diff=lfs merge=lfs -text
+/data/installs.csv filter=lfs diff=lfs merge=lfs -text
+/data/payouts.csv filter=lfs diff=lfs merge=lfs -text
+/data/revenue.csv filter=lfs diff=lfs merge=lfs -text
